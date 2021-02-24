@@ -1,0 +1,21 @@
+set number
+syntax on
+set tabstop=4
+set shiftwidth=4
+set noexpandtab
+set smarttab
+set et
+set wrap
+set ai
+set cin
+set showmatch
+set hlsearch
+set incsearch
+set ignorecase
+set lz
+set listchars=tab:··
+set list
+set ffs=unix,dos,mac
+set fencs=utf-8,cp1251,koi8-r,ucs-2,cp866
+set smartcase
+
